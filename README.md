@@ -88,10 +88,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/keviingarciah/keviingarciah/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/12134786467">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=12134786467&count=1" alt="Spotify recently played"  />

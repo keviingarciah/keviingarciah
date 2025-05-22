@@ -158,7 +158,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keviingarciah&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true" height="180" alt="languages graph" />
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keviingarciah&radius=16&theme=nightowl&area=true&hide_border=true&hide_title=false" width="85%" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keviingarciah&radius=16&theme=nightowl&area=true&hide_border=true&hide_title=true" width="85%" alt="activity-graph" />
 </div>
 
 <div align="center">

@@ -162,14 +162,12 @@
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/keviingarciah/keviingarciah/output/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
   <h3>Lo último que escuché 🎵</h3>
   <a href="https://open.spotify.com/user/12134786467">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=12134786467&count=3&unique=true" alt="Spotify recently played" />
   </a>
-</div>
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/keviingarciah/keviingarciah/output/snake.svg" alt="Snake animation" />
 </div>

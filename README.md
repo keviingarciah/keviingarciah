@@ -1,6 +1,6 @@
 <h1 align="center">Kevin García 🤓</h1>
 
-<p align="center" style="max-width: 800px; margin: 0 auto; font-size: 20px; line-height: 1.6;">
+<p align="center" style="max-width: 800px; margin: 0 auto; font-size: 30px; line-height: 1.6;">
   Casi ingeniero en sistemas, amante de la tecnología y el desarrollo de software. Me gusta aprender cosas nuevas y compartir mis conocimientos. 
 </p>
 

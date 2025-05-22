@@ -21,7 +21,7 @@
   </a>
 </div>
 
-<h3 align="center">Tecnologías Principales</h3>
+<h2 align="center">Tecnologías Principales</h2>
 
 ###
 
@@ -81,7 +81,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
 </div>
 
-<h4 align="center">Otras Tecnologías</h4>
+<h3 align="center">Otras Tecnologías</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="14" alt="tailwindcss logo"  />
@@ -148,7 +148,7 @@
 </div>
 
 
-<h3 align="center">Estadísticas</h3>
+<h2 align="center">Estadísticas</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=keviingarciah&locale=es&mode=daily&theme=nightowl&hide_border=true&border_radius=5" height="180" alt="streak graph" />
@@ -162,7 +162,7 @@
 </div>
 
 <div align="center">
-  <h4>Lo último que escuché 🎵</h4>
+  <h3>Lo último que escuché 🎵</h3>
   <a href="https://open.spotify.com/user/12134786467">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=12134786467&count=3&unique=true" alt="Spotify recently played" />
   </a>
@@ -174,3 +174,10 @@
   <img src="https://raw.githubusercontent.com/keviingarciah/keviingarciah/output/snake.svg" alt="Snake animation" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keviingarciah/keviingarciah/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keviingarciah/keviingarciah/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/keviingarciah/keviingarciah/output/pacman-contribution-graph.svg">
+  </picture>
+</div>

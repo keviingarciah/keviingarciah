@@ -1,13 +1,13 @@
 <h1 align="center">Kevin García 🤓</h1>
 
-<h3 align="center">Ingeniero en Ciencias y Sistemas</h3>
-
-<p align="center">
+<p align="center" style="max-width: 800px; margin: 0 auto; font-size: 16px; line-height: 1.6;">
   Apasionado por el desarrollo de software, con formación sólida en Ingeniería en Ciencias y Sistemas (pensum cerrado) 
   y experiencia como auxiliar de cátedra en áreas tecnológicas. Me especializo en desarrollo Full Stack, con conocimientos 
   en arquitectura de sistemas, bases de datos, microservicios y metodologías ágiles. Comprometido con la mejora continua, 
   la escritura de código limpio y el trabajo en equipo.
 </p>
+
+###
 
 <div align="center">
   <a href="mailto:kevingarciah58@gmail.com" target="_blank">
@@ -21,8 +21,9 @@
   </a>
 </div>
 
-<br/>
 <h3 align="center">Tecnologías Principales</h3>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />

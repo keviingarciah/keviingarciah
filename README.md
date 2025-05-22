@@ -1,10 +1,7 @@
 <h1 align="center">Kevin García 🤓</h1>
 
-<p align="center" style="max-width: 800px; margin: 0 auto; font-size: 16px; line-height: 1.6;">
-  Apasionado por el desarrollo de software, con formación sólida en Ingeniería en Ciencias y Sistemas (pensum cerrado) 
-  y experiencia como auxiliar de cátedra en áreas tecnológicas. Me especializo en desarrollo Full Stack, con conocimientos 
-  en arquitectura de sistemas, bases de datos, microservicios y metodologías ágiles. Comprometido con la mejora continua, 
-  la escritura de código limpio y el trabajo en equipo.
+<p align="center" style="max-width: 800px; margin: 0 auto; font-size: 20px; line-height: 1.6;">
+  Casi ingeniero en sistemas, amante de la tecnología y el desarrollo de software. Me gusta aprender cosas nuevas y compartir mis conocimientos. 
 </p>
 
 ###
@@ -160,6 +157,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=keviingarciah&radius=16&theme=nightowl&area=true&hide_border=true&hide_title=true" width="85%" alt="activity-graph" />
 </div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/keviingarciah/keviingarciah/output/snake.svg" alt="Snake animation" />

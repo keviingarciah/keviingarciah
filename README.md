@@ -1,4 +1,4 @@
-<h1 align="center">Kevin García</h1>
+<h1 align="center">Kevin García 🤓</h1>
 
 <h3 align="center">Ingeniero en Ciencias y Sistemas</h3>
 
@@ -9,6 +9,19 @@
   la escritura de código limpio y el trabajo en equipo.
 </p>
 
+<div align="center">
+  <a href="mailto:kevingarciah58@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  <a href="https://gitlab.com/keviingarciah" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" />
+  </a>
+  <a href="https://www.linkedin.com/in/keviingarciah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+</div>
+
+<br/>
 <h3 align="center">Tecnologías Principales</h3>
 
 <div align="center">
@@ -27,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
 </div>
 
-<h3 align="center">Frameworks & Librerías</h3>
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
@@ -43,7 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
 </div>
 
-<h3 align="center">Bases de Datos</h3>
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
@@ -55,7 +68,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
 </div>
 
-<h3 align="center">Cloud & DevOps</h3>
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
@@ -67,7 +80,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
 </div>
 
-<h3 align="center">Otras Tecnologías</h3>
+<h4 align="center">Otras Tecnologías</h4>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="14" alt="tailwindcss logo"  />
@@ -147,22 +160,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=keviingarciah&radius=16&theme=nightowl&area=true&hide_border=true&hide_title=false" width="85%" alt="activity-graph" />
 </div>
 
-<h3 align="center">Contáctame</h3>
-
 <div align="center">
-  <a href="mailto:kevingarciah58@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://gitlab.com/keviingarciah" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="50" height="35" alt="gitlab logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/keviingarciah/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo" />
-  </a>
-</div>
-
-<div align="center">
-  <h4>Últimas reproducciones en Spotify 🎵</h4>
+  <h4>Lo último que escuché 🎵</h4>
   <a href="https://open.spotify.com/user/12134786467">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=12134786467&count=3&unique=true" alt="Spotify recently played" />
   </a>
@@ -171,9 +170,6 @@
 <br clear="both">
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keviingarciah/keviingarciah/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keviingarciah/keviingarciah/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/keviingarciah/keviingarciah/output/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/keviingarciah/keviingarciah/output/snake.svg" alt="Snake animation" />
 </div>
+

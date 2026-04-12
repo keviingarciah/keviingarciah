@@ -1,7 +1,7 @@
 <h1 align="center">Kevin García 🤓</h1>
 
 <h3 align="center">
-  Casi ingeniero en sistemas, amante de la tecnología y el desarrollo de software. Me gusta aprender cosas nuevas y compartir mis conocimientos. 
+  Casi casi ingeniero en sistemas, amante de la tecnología y el desarrollo de software. Me gusta aprender cosas nuevas y compartir mis conocimientos. 
 </h3>
 
 ###

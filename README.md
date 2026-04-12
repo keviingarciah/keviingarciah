@@ -73,8 +73,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
   <img width="12" />
-   <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
 </div>
 
@@ -149,10 +147,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=keviingarciah&locale=es&mode=daily&theme=nightowl&hide_border=true&border_radius=5" height="180" alt="streak graph" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keviingarciah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=es&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keviingarciah&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true" height="180" alt="languages graph" />
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=keviingarciah&radius=16&theme=nightowl&area=true&hide_border=true&hide_title=true" width="85%" alt="activity-graph" />

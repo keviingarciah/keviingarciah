@@ -8,12 +8,11 @@
 
 <p align="center">
   <b>Software Engineer</b> · Full Stack · Backend · DevOps / Platform Engineer<br>
-  Mixco, Guatemala · Open to Software Engineer, Full Stack, Backend, DevOps Jr. & Platform Engineer Jr. roles
 </p>
 
 <p align="center">
   Experience building web and mobile apps in enterprise environments, including banking,<br>
-  with <b>Angular</b>, <b>Ionic</b>, <b>TypeScript</b> and REST APIs. Currently at <b>Banco GyT Continental (SETESA)</b>.
+  with <b>Angular</b>, <b>Ionic</b>, <b>TypeScript</b> and REST APIs.
 </p>
 
 <p align="center">
@@ -156,12 +155,11 @@
 
 <p align="center">
   <b>Software Engineer</b> · Full Stack · Backend · DevOps / Platform Engineer<br>
-  Mixco, Guatemala · Abierto a roles de Software Engineer, Full Stack, Backend, DevOps Jr. y Platform Engineer Jr.
 </p>
 
 <p align="center">
   Experiencia desarrollando aplicaciones web y móviles en entornos empresariales, incluyendo el sector bancario,<br>
-  con <b>Angular</b>, <b>Ionic</b>, <b>TypeScript</b> y APIs REST. Actualmente en <b>Banco GyT Continental (SETESA)</b>.
+  con <b>Angular</b>, <b>Ionic</b>, <b>TypeScript</b> y APIs REST.
 </p>
 
 <p align="center">

@@ -6,11 +6,21 @@
 
 <h1 align="center">Kevin García</h1>
 
-<h3 align="center">
-  Software Engineer · Full Stack, Backend & DevOps<br>
-  Building web and mobile apps in enterprise environments. Currently at Banco GyT Continental (SETESA).<br>
-  Focused on microservices, CI/CD, Kubernetes, and software architecture.
-</h3>
+<p align="center">
+  <b>Software Engineer</b> · Full Stack · Backend · DevOps / Platform Engineer<br>
+  Mixco, Guatemala · Open to Software Engineer, Full Stack, Backend, DevOps Jr. & Platform Engineer Jr. roles
+</p>
+
+<p align="center">
+  Experience building web and mobile apps in enterprise environments, including banking,<br>
+  with <b>Angular</b>, <b>Ionic</b>, <b>TypeScript</b> and REST APIs. Currently at <b>Banco GyT Continental (SETESA)</b>.
+</p>
+
+<p align="center">
+  Also working with <b>Go</b>, <b>Python/FastAPI</b>, Docker, CI/CD, microservices, SQL/NoSQL databases,<br>
+  cloud deployments and self-hosted infrastructure. I like shipping complete products — from architecture<br>
+  and backend design to deployment, automation, monitoring and continuous improvement.
+</p>
 
 ###
 
@@ -144,11 +154,21 @@
   <a href="#top"><b>English</b></a> | <b>Español</b>
 </div>
 
-<h3 align="center">
-  Software Engineer · Full Stack, Backend & DevOps<br>
-  Desarrollo web y móvil en entornos empresariales. Actualmente en Banco GyT Continental (SETESA).<br>
-  Enfocado en microservicios, CI/CD, Kubernetes y arquitectura de software.
-</h3>
+<p align="center">
+  <b>Software Engineer</b> · Full Stack · Backend · DevOps / Platform Engineer<br>
+  Mixco, Guatemala · Abierto a roles de Software Engineer, Full Stack, Backend, DevOps Jr. y Platform Engineer Jr.
+</p>
+
+<p align="center">
+  Experiencia desarrollando aplicaciones web y móviles en entornos empresariales, incluyendo el sector bancario,<br>
+  con <b>Angular</b>, <b>Ionic</b>, <b>TypeScript</b> y APIs REST. Actualmente en <b>Banco GyT Continental (SETESA)</b>.
+</p>
+
+<p align="center">
+  También he trabajado con <b>Go</b>, <b>Python/FastAPI</b>, Docker, CI/CD, microservicios, bases de datos SQL/NoSQL,<br>
+  despliegues cloud e infraestructura self-hosted. Me interesa construir productos completos: desde la arquitectura<br>
+  y el backend hasta el despliegue, la automatización, el monitoreo y la mejora continua.
+</p>
 
 ###
 

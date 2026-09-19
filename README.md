@@ -1,9 +1,15 @@
+<a id="top"></a>
+
+<div align="center">
+  <b>English</b> | <a href="#español">Español</a>
+</div>
+
 <h1 align="center">Kevin García</h1>
 
 <h3 align="center">
   Software Engineer · Full Stack, Backend & DevOps<br>
-  Desarrollo web y móvil en entornos empresariales. Actualmente en Banco GyT Continental (SETESA).<br>
-  Interés en microservicios, CI/CD, Kubernetes y arquitectura de software.
+  Building web and mobile apps in enterprise environments. Currently at Banco GyT Continental (SETESA).<br>
+  Focused on microservices, CI/CD, Kubernetes, and software architecture.
 </h3>
 
 ###
@@ -22,7 +28,7 @@
 
 ###
 
-<h2 align="center">Tecnologías Principales</h2>
+<h2 align="center">Main Technologies</h2>
 
 ###
 
@@ -78,7 +84,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo" />
 </div>
 
-<h3 align="center">Otras Tecnologías</h3>
+<h3 align="center">Other Technologies</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="20" alt="tailwindcss logo" />
@@ -110,6 +116,42 @@
 
 ###
 
+<h2 align="center">Featured Projects</h2>
+
+<div align="center">
+
+| Project | Description |
+|---------|-------------|
+| [**Flex Pilates**](https://flexpilatesgt.com/) | Gym management system — Go, Angular, Ionic, Astro |
+| [**Archeo-Cluster**](https://github.com/keviingarciah/archeo-cluster) | Archaeological image analysis with OpenCV and Python |
+| [**Microservices K8s CI/CD**](https://github.com/keviingarciah/microservices-k8s-cicd) | Microservices with Jenkins and GKE deployment |
+| [**K8s Observability**](https://github.com/keviingarciah/microservices-k8s-observability) | Monitoring and logging with Prometheus, Grafana, and ELK |
+| [**Real-Time Voting**](https://github.com/keviingarciah/realtime-voting-platform) | Distributed system with Go, Rust, Kafka, and Kubernetes |
+
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/keviingarciah/keviingarciah/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<h2 id="español" align="center">Español</h2>
+
+<div align="center">
+  <a href="#top"><b>English</b></a> | <b>Español</b>
+</div>
+
+<h3 align="center">
+  Software Engineer · Full Stack, Backend & DevOps<br>
+  Desarrollo web y móvil en entornos empresariales. Actualmente en Banco GyT Continental (SETESA).<br>
+  Enfocado en microservicios, CI/CD, Kubernetes y arquitectura de software.
+</h3>
+
+###
+
 <h2 align="center">Proyectos Destacados</h2>
 
 <div align="center">
@@ -122,10 +164,4 @@
 | [**K8s Observability**](https://github.com/keviingarciah/microservices-k8s-observability) | Monitoreo y logging con Prometheus, Grafana y ELK |
 | [**Real-Time Voting**](https://github.com/keviingarciah/realtime-voting-platform) | Sistema distribuido con Go, Rust, Kafka y Kubernetes |
 
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/keviingarciah/keviingarciah/output/snake.svg" alt="Snake animation" />
 </div>
